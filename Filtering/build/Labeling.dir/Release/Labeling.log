@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/ryo/codes/Filtering/Filtering/CMakeLists.txt
+  labeling.cpp
+C:\Users\ryo\opencv\opencv-3.4.9\sources\modules\calib3d\include\opencv2/calib3d.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  Labeling.vcxproj -> C:\Users\ryo\codes\Filtering\Filtering\build\Release\Labeling.exe
